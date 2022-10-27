@@ -8,7 +8,7 @@ var num3 = 234;
     console.log("Number1 is the smallest");
 }
  
- else if (( num2 < num1) &&( num2 < num3))
+ else if (( num2 < num1) && ( num2 < num3))
 {
     console.log("Number2 is the smallest");
 }
